@@ -5,6 +5,7 @@ Each antenna has its own folder with simulation script and output plots.
 
 ## Antennas
 - Dipole (300 MHz)
+- Yagi-Uda (300MHz)
 
 ## Tools
 - MATLAB R2025b
